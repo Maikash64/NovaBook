@@ -1,0 +1,39 @@
+# Unity generated folders
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+
+# IDE files
+.vs/
+.vscode/
+.idea/
+
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build files
+*.apk
+*.aab
+*.unitypackage
+
+# Crash reports
+sysinfo.txt
+
+# Keep these important folders
+!Assets/
+!ProjectSettings/
+!Packages/
